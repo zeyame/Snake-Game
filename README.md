@@ -23,7 +23,7 @@ This is a classic Snake Game implemented in Java using Swing for the graphical i
 ## Installation
 
 1. Clone the repository:
-    git clone https://github.com/yourusername/snake-game.git
+    git clone https://github.com/zeyame/snake-game.git
 
 2. Open the project in your preferred IDE (Eclipse, IntelliJ IDEA, etc.).
 
